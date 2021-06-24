@@ -4,5 +4,5 @@ import "fmt"
 
 // This is comment
 func main() {
-	fmt.Println("Hello Git from task1")
+	fmt.Println("Hello Git from main....")
 }
