@@ -2,6 +2,6 @@ package custmarshal
 
 import "fmt"
 
-func customMarshal() {
+func CustomMarshal() {
 	fmt.Println("cm")
 }
