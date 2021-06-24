@@ -7,6 +7,6 @@ import (
 )
 
 func main() {
-	fmt.Println("Hello Git from task1")
+	fmt.Println("Hello Git from task1233")
 	custmarshal.CustomMarshal()
 }
