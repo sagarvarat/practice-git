@@ -1,7 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	custmarshal "github.com/sagarvarat/practice-git/custommarshal"
+)
 
 func main() {
-	fmt.Println("Hello Git from task1")
+	fmt.Println("Hello Git from task1233")
+	custmarshal.CustomMarshal()
 }
